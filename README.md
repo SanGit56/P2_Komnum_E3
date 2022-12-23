@@ -2,9 +2,9 @@
 
 ## Langkah
 1. Mengimpor library matplotlib.pyplot dan numpy untuk membuat diagram kartesius dan menggambar grafik
-2. Membuat isian untuk memasukkan batas bawah, bawah atas, dan jumlah kolom
-3. Memasukkan persamaan dan nilai isian pada poin 2 ke method romberg() untuk mengintegrasi persamaan menggunakan metode romberg<br />
-![Screenshot (14)](https://user-images.githubusercontent.com/97205825/209248665-26ad9ed4-93f5-4b33-bba1-0b44d7875c04.png)
+2. Membuat isian untuk memasukkan batas bawah, bawah atas, dan jumlah kolom<br />
+![Screenshot (15)](https://user-images.githubusercontent.com/97205825/209248951-3a17cd67-9766-4d6a-afa8-a7c7e26ef690.png)
+3. Memasukkan persamaan dan nilai isian pada poin 2 ke method romberg() untuk mengintegrasi persamaan menggunakan metode romberg
 4. Persamaan adalah persamaan dalam method fungsi()
 5. Memanggil fungsi kartesian() untuk membuat diagram kartesius<br />
 ![Screenshot (14)](https://user-images.githubusercontent.com/97205825/209248702-1f3b53ea-7587-4814-91a1-8b0871f66e23.png)
